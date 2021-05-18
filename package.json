@@ -1,0 +1,20 @@
+{
+  "name": "17-nosql-workout-tracker",
+  "version": "1.0.0",
+  "description": "Homework Assignment #17 - MongoDB exercise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonesjsc/17-NoSQL-Workout-Tracker.git"
+  },
+  "author": "jason.e.jones@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonesjsc/17-NoSQL-Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/jonesjsc/17-NoSQL-Workout-Tracker#readme"
+}
