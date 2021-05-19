@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/jonesjsc/17-NoSQL-Workout-Tracker/issues"
   },
-  "homepage": "https://github.com/jonesjsc/17-NoSQL-Workout-Tracker#readme"
+  "homepage": "https://github.com/jonesjsc/17-NoSQL-Workout-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10"
+  }
 }
